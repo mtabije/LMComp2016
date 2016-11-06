@@ -1,6 +1,11 @@
 # LMComp2016
 
-Logo_v3 - latest version of top of base.
+BottomsUp_v1 - First version of the base with modularity.
+
+TopsDown_v1 - First version of the top.  
+
+
+Logo_v3 - latest version of the STAR only
 
 LogoBaseAlpha - Draft of overall design.
 
