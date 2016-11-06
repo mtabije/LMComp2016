@@ -1,3 +1,5 @@
 # LMComp2016
 
-NewThing 
+Logo_v3 - latest version of top of base.
+
+LogoBaseAlpha - Draft of overall design.
